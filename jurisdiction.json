@@ -1,0 +1,11 @@
+{
+  "path": "ru-orl",
+  "code": "RU-ORL",
+  "name": "Oryol Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-oryol-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
