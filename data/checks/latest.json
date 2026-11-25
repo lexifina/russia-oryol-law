@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:34:43Z",
+ "generated": "2026-11-25T07:01:41Z",
  "latest": {
   "pravo-oryol|russia/oryol/acts": {
    "attempt": 1,
@@ -13,114 +13,42 @@
    },
    "census": {
     "checked": 1717,
-    "current": 1689,
+    "current": 1717,
     "gone": 0,
-    "held": 1689,
-    "newest_in_repo": "2026-10-30",
-    "pending": 28,
-    "repo": 1689,
+    "held": 1717,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1717,
     "source_in_scope": 1717
    },
-   "check_id": "ru-pravo-oryol-20261124T142408Z",
-   "commits": {
-    "count": 2,
-    "from": "2b010f9bc219e06578f2cc8da656632515bb5ecc",
-    "to": "8127aeb959c37f5b60377deae7942b88a1b9390d"
-   },
+   "check_id": "ru-pravo-oryol-20261125T062313Z",
+   "commits": null,
    "corpus": "russia/oryol/acts",
    "error": null,
-   "finished": "2026-11-24T14:34:42Z",
+   "finished": "2026-11-25T06:24:25Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region57: 1717 law-type documents listed (every page read); 1689 held here; 28 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region57: 1717 law-type documents listed (every page read); 1717 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "5700202611060001",
-     "5700202611060002",
-     "5700202611060003",
-     "5700202611060004",
-     "5700202611060005",
-     "5700202611060006",
-     "5700202611060007",
-     "5700202611060008",
-     "5700202611060009",
-     "5700202611060010",
-     "5700202611060011",
-     "5700202611060012",
-     "5700202611060013",
-     "5700202611060014",
-     "5700202611060015",
-     "5700202611060016",
-     "5700202611060017",
-     "5700202611060018",
-     "5700202611060019",
-     "5700202611060020",
-     "5700202611060021",
-     "5700202611060022",
-     "5700202611060023",
-     "5700202611060024",
-     "5700202611060025",
-     "5700202611060026",
-     "5700202611060027",
-     "5700202611060028"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 13,
+   "requests": 12,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "5700202611060001",
-     "5700202611060002",
-     "5700202611060003",
-     "5700202611060004",
-     "5700202611060005",
-     "5700202611060006",
-     "5700202611060007",
-     "5700202611060008",
-     "5700202611060009",
-     "5700202611060010",
-     "5700202611060011",
-     "5700202611060012",
-     "5700202611060013",
-     "5700202611060014",
-     "5700202611060015",
-     "5700202611060016",
-     "5700202611060017",
-     "5700202611060018",
-     "5700202611060019",
-     "5700202611060020",
-     "5700202611060021",
-     "5700202611060022",
-     "5700202611060023",
-     "5700202611060024",
-     "5700202611060025",
-     "5700202611060026",
-     "5700202611060027",
-     "5700202611060028"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1717 law-type documents in block region57; newest published 2026-11-06",
    "source": "pravo-oryol",
-   "started": "2026-11-24T14:24:08Z",
+   "started": "2026-11-25T06:23:13Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
