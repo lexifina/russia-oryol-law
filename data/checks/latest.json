@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:41Z",
+ "generated": "2026-11-26T06:18:49Z",
  "latest": {
   "pravo-oryol|russia/oryol/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1717,
     "source_in_scope": 1717
    },
-   "check_id": "ru-pravo-oryol-20261125T062313Z",
+   "check_id": "ru-pravo-oryol-20261126T054840Z",
    "commits": null,
    "corpus": "russia/oryol/acts",
    "error": null,
-   "finished": "2026-11-25T06:24:25Z",
+   "finished": "2026-11-26T05:49:23Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region57: 1717 law-type documents listed (every page read); 1717 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1717 law-type documents in block region57; newest published 2026-11-06",
    "source": "pravo-oryol",
-   "started": "2026-11-25T06:23:13Z",
+   "started": "2026-11-26T05:48:40Z",
    "unexplained": 0,
    "update": {
     "parts": []
