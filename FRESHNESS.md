@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Oryol Oblast: Official Internet Portal of Legal Information (region57) · `russia/oryol/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:49 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:45 UTC**.
 - Acts held here: 1 717; current at the source: 1 717; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
